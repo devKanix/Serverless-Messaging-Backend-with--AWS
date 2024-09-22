@@ -1,7 +1,5 @@
 # AWS Messaging Backend
 
-![AWS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/320px-Amazon_Web_Services_Logo.svg.png)
-
 ## Overview
 
 This project demonstrates the implementation of a scalable messaging backend using Amazon Web Services (AWS). It leverages AWS SQS (Simple Queue Service) for message queuing and AWS Lambda for serverless message processing. The backend is designed to handle message sending, receiving, and processing efficiently and securely, all managed through the AWS Management Console.
